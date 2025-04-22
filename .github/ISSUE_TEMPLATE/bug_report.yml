@@ -1,0 +1,30 @@
+name: Bug Report
+description: Create a report to help us improve the project
+labels: bug
+
+fields:
+  - type: input
+    id: title
+    attributes:
+      label: "Bug title"
+      placeholder: "Short description of the bug"
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      placeholder: "Describe the bug in detail"
+  - type: input
+    id: steps
+    attributes:
+      label: "Steps to Reproduce"
+      placeholder: "List the steps to reproduce the bug"
+  - type: input
+    id: expected
+    attributes:
+      label: "Expected Behavior"
+      placeholder: "What should have happened?"
+  - type: input
+    id: environment
+    attributes:
+      label: "Environment"
+      placeholder: "e.g., OS, Python version, Browser"
