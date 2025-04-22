@@ -1,0 +1,20 @@
+name: Feature Request
+description: Suggest an idea for this project
+labels: enhancement
+
+fields:
+  - type: input
+    id: title
+    attributes:
+      label: "Feature title"
+      placeholder: "Short description of the feature"
+  - type: textarea
+    id: description
+    attributes:
+      label: "Feature Description"
+      placeholder: "Describe the feature in detail"
+  - type: input
+    id: benefits
+    attributes:
+      label: "Why is this useful?"
+      placeholder: "Explain the benefits of this feature"
