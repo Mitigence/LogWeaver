@@ -24,7 +24,7 @@ Please always use the latest version for the best and most secure experience.
 If you discover a vulnerability or security issue in LogWeaver:
 
 1. **Do not open a public issue.**
-2. Instead, email us at **security@mitigence.com** (or your preferred contact).
+2. Instead, email us at **support@mitigence.com** (or your preferred contact).
 3. Include:
    - A description of the issue
    - Steps to reproduce (if possible)
